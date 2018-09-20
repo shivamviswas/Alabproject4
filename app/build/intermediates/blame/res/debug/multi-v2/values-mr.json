@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Alabproject4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
+            "outputFile": "F:\\Alabproject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
             "map": [
                 {
                     "source": "F:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\c13de0ce9efc9e8df8d47caf1e095d36\\res\\values-mr\\values-mr.xml",

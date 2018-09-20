@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Alabproject4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "F:\\Alabproject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "F:\\.gradle\\caches\\transforms-1\\files-1.1\\constraint-layout-1.1.2.aar\\92354b58655ad8b80b3d5b8b6b0e4b59\\res\\values\\values.xml",
@@ -20,25 +20,6 @@
                         "endLines": "2,10,12,13,14,15,21,24,25,26,29,30,33,36,37,38,39,40,43,46,47,48,49,54,57,60,61,62,67,68,69,72,75,76,79,82,85,88,89,92,95,96,101,102,107,110,113,114,115,116,117,118,119,120,121,122,130",
                         "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11",
                         "endOffsets": "206,497,597,649,710,756,999,1154,1214,1284,1417,1485,1614,1740,1802,1867,1935,2002,2125,2250,2317,2382,2447,2628,2749,2870,2936,3003,3213,3282,3348,3473,3599,3666,3792,3919,4044,4171,4236,4362,4485,4550,4758,4825,5005,5125,5245,5310,5372,5434,5496,5555,5615,5676,5737,5796,6136"
-                    }
-                },
-                {
-                    "source": "F:\\Alabproject4\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "10,3,12",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "339,57,424",
-                        "endLines": "10,8,12",
-                        "endColumns": "81,12,71",
-                        "endOffsets": "416,331,491"
-                    },
-                    "to": {
-                        "startLines": "853,854,2085",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "71312,71393,151213",
-                        "endLines": "853,859,2085",
-                        "endColumns": "80,12,70",
-                        "endOffsets": "71388,71662,151279"
                     }
                 },
                 {
@@ -80,6 +61,57 @@
                     }
                 },
                 {
+                    "source": "F:\\Alabproject\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,6,5,4",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "90,149,316,265,206",
+                        "endColumns": "57,55,41,49,57",
+                        "endOffsets": "143,200,353,310,259"
+                    },
+                    "to": {
+                        "startLines": "661,662,711,725,726",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "58258,58316,61438,62477,62527",
+                        "endColumns": "57,55,41,49,57",
+                        "endOffsets": "58311,58367,61475,62522,62580"
+                    }
+                },
+                {
+                    "source": "F:\\Alabproject\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "158,159,160",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "8093,8139,8186",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "8134,8181,8232"
+                    }
+                },
+                {
+                    "source": "F:\\Alabproject\\app\\src\\main\\res\\values\\drawables.xml",
+                    "from": {
+                        "startLines": "1,2,4,6,5,3",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "76,165,351,527,440,256",
+                        "endColumns": "87,89,87,83,85,93",
+                        "endOffsets": "159,250,434,606,521,345"
+                    },
+                    "to": {
+                        "startLines": "750,751,752,753,754,755",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "64016,64104,64194,64282,64366,64452",
+                        "endColumns": "87,89,87,83,85,93",
+                        "endOffsets": "64099,64189,64277,64361,64447,64541"
+                    }
+                },
+                {
                     "source": "F:\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-v7-27.1.1.aar\\ade3903c769144822fa1e8a3dc38d47d\\res\\values\\values.xml",
                     "from": {
                         "startLines": "3,4,5,6,7,8,9",
@@ -94,23 +126,6 @@
                         "startOffsets": "61480,61539,61587,62254,62329,62405,64973",
                         "endColumns": "58,47,55,74,75,71,65",
                         "endOffsets": "61534,61582,61638,62324,62400,62472,65034"
-                    }
-                },
-                {
-                    "source": "F:\\Alabproject4\\app\\src\\main\\res\\values\\drawables.xml",
-                    "from": {
-                        "startLines": "1,2,4,6,5,3",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "76,165,351,527,440,256",
-                        "endColumns": "87,89,87,83,85,93",
-                        "endOffsets": "159,250,434,606,521,345"
-                    },
-                    "to": {
-                        "startLines": "750,751,752,753,754,755",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "64016,64104,64194,64282,64366,64452",
-                        "endColumns": "87,89,87,83,85,93",
-                        "endOffsets": "64099,64189,64277,64361,64447,64541"
                     }
                 },
                 {
@@ -188,23 +203,6 @@
                     }
                 },
                 {
-                    "source": "F:\\Alabproject4\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
-                    },
-                    "to": {
-                        "startLines": "158,159,160",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "8093,8139,8186",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "8134,8181,8232"
-                    }
-                },
-                {
                     "source": "F:\\.gradle\\caches\\transforms-1\\files-1.1\\transition-27.1.1.aar\\2d123b5b12b5460957db975fb5f3f5be\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -222,24 +220,7 @@
                     }
                 },
                 {
-                    "source": "F:\\Alabproject4\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "2,3,6,5,4",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "90,149,316,265,206",
-                        "endColumns": "57,55,41,49,57",
-                        "endOffsets": "143,200,353,310,259"
-                    },
-                    "to": {
-                        "startLines": "661,662,711,725,726",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "58258,58316,61438,62477,62527",
-                        "endColumns": "57,55,41,49,57",
-                        "endOffsets": "58311,58367,61475,62522,62580"
-                    }
-                },
-                {
-                    "source": "F:\\Alabproject4\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "F:\\Alabproject\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "8,1,7,6,5,4,3,2",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -253,6 +234,25 @@
                         "startOffsets": "68770,68823,69231,69293,69368,69428,69504,70517",
                         "endColumns": "52,54,61,74,59,75,73,65",
                         "endOffsets": "68818,68873,69288,69363,69423,69499,69573,70578"
+                    }
+                },
+                {
+                    "source": "F:\\Alabproject\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "10,3,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "339,57,424",
+                        "endLines": "10,8,12",
+                        "endColumns": "81,12,71",
+                        "endOffsets": "416,331,491"
+                    },
+                    "to": {
+                        "startLines": "853,854,2085",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "71312,71393,151213",
+                        "endLines": "853,859,2085",
+                        "endColumns": "80,12,70",
+                        "endOffsets": "71388,71662,151279"
                     }
                 }
             ]
