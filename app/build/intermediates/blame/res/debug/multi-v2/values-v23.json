@@ -1,21 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Alabproject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\abhishekbaari\\AndroidStudioProjects\\parentApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "F:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\c13de0ce9efc9e8df8d47caf1e095d36\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
-                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
-                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
-                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
-                    }
-                },
-                {
-                    "source": "F:\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.1.1.aar\\a45a50d59a4b8309c55b1317fb04b860\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\abhishekbaari\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.1.1.aar\\d3b2174487b9598972a62e0f89e85a2d\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -31,6 +20,17 @@
                         "endLines": "39",
                         "endColumns": "12",
                         "endOffsets": "2791"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abhishekbaari\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\54ebe084da1cfa77d7f0308303f2b8d0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
                     }
                 }
             ]

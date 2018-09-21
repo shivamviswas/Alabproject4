@@ -43,9 +43,9 @@ public class AttendanceActivity extends AppCompatActivity {
         HashMap<String, String> user=sessionManger.getUserDetail();
         String Esclid = user.get(sessionManger.SCL_ID);
         String Ecls = user.get(sessionManger.CLAS);
-        String Sid= user.get(sessionManger.SID);
+        String SSid= user.get(sessionManger.SID);
         sclid=Esclid;
-        clas=Sid;
+        clas=SSid;
         recyclerView=findViewById(R.id.recyclerviewAtt);
         progressBar=findViewById(R.id.progressAtt);
         lstAnime=new ArrayList<>();

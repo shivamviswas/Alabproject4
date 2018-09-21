@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Alabproject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\abhishekbaari\\AndroidStudioProjects\\parentApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "F:\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\c7c1b076e3723370230f5e14be5e5c76\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\abhishekbaari\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\54ebe084da1cfa77d7f0308303f2b8d0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abhishekbaari\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\f79b26fe1304690cae1c62abdd6f5439\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "9",
                         "endColumns": "12",
                         "endOffsets": "505"
-                    }
-                },
-                {
-                    "source": "F:\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\c13de0ce9efc9e8df8d47caf1e095d36\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
                     }
                 }
             ]
